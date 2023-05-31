@@ -1,0 +1,22 @@
+Her canlı organizmanın kalbinde genomu vardır. Eğer hücre bir bilgisayar ise, genom da onun çalıştırdığı yazılımdır. DNA'yı hücre tarafından işletilen bir yazılım olarak düşünürsek, benzer mantıkla nasıl çalıştığını analiz etmek için kendi bilgisayarlarımızı da kullanabiliriz.DNA sadece bir bilgi deposu değil, karmaşık bir şekilde davranabilen fiziksel bir yapıdır. Genomlar binlerce parçadan oluşan inanılmaz derecede karmaşık makinelerdir.
+Bugün bazı genlerin nasıl çalıştığını bilmemize rağmen, birçok genin nasıl birlikte çalıştığı anlaşılamamıştır.
+
+Genetik, DNA'yı sadece bilgi olarak görür, bilgideki örüntüleri arar ve genler ile fiziksel görünüm arasındaki ilişkileri araştırır.
+Genomik ise genomu bir makine olarak görür ve parçalarının birlikte nasıl çalıştığını anlamaya çalışır.
+
+Genomik Veri Bilimi, veri biliminde bulunan istatistik, makine öğrenimi gibi yöntemlerin genomik problemlere uygulanmasıdır.
+
+Yeni nesil dizileme sayesinde genomları daha hızlı, daha ucuz ve başarılı bir şekilde dizileyebiliyoruz. Örneğin İnsan Genom Projesi (geçmişte) 2,7 milyar dolara gerçekleştirilmişti, bugün ise 1000 dolara genomunuzu dizileyebiliyorsunuz, dolayısıyla internette çok fazla genomik veri bulunabiliyor.
+
+Canlı bir organizma, insanların şimdiye kadar ürettiği herhangi bir makineden daha karmaşıktır. Bu karmaşıklığı çözmek klasik algoritmaların ya da insan anlayışının kapasitesinin üzerindedir. Genetik hastalıkların ve kanserlerin çoğu birden fazla genin etkileşimiyle ortaya çıkar ve genetik varyasyon içerir.
+
+İnanılmaz karmaşıklığa ve veri noktalarına sahip verileri analiz etmek için en güçlü silahlardan biri Derin Öğrenmedir, klasik yöntemler genler arasında doğrusal bir ilişki olduğunu varsayar, ancak bu böyle değildir.
+
+Genomik Veri Bilimi ile kişiye özel ilaç çalışmaları hızlandırılabilir ya da canınız sıkıldıysa genomlardan yüzlerinin 3 boyutlu halini oluşturarak sigara atmış ya da sakız çiğnemiş kişileri tespit edebilirsiniz.
+
+Bakteriden balinaya kadar yaşam benzer prensiplerle çalışır. Tüm canlılar yaşam ağacında birbirine bağlıdır ve büyük olasılıkla tek bir ortak atadan gelmektedir.
+
+DNA 4 temel (A, T, G, C) bazının tekrarından oluşan uzun bir polimerdir. Organizmanın nasıl inşa edileceğine dair neredeyse tüm bilgiler burada saklanır.
+
+Bu bilginin kodu ve nasıl işlendiği (epigenetik) zaman içinde değişir ve gelişir. DNA neredeyse sonsuz kombinasyonda bilgi taşıyabilir.
+
